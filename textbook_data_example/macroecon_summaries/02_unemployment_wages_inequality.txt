@@ -1,0 +1,19 @@
+Unit 2
+Unemployment, wages, and inequality: Supply-side policies and institutions
+Summary
+
+Inequality of income or any other economic indicator can be represented by a Lorenz curve, which provides information on the entire distribution rather than summarizing it in a single statistic, as is the case with the Gini coefficient introduced in the microeconomics volume.
+The WS–PS model, which in Unit 1 was used to determine the equilibrium level of employment, unemployment, and real wages, also determines the distribution of income, allowing a mapping from the WS–PS diagram to the Lorenz curve.
+Policies affect macroeconomic outcomes by shifting the WS or PS curves, or both. For example, education, training, improvements in technology, or other measures that increase labour productivity will shift the PS curve up and therefore increase both the level of employment and the real wage.
+The model illustrates the possible unintended consequences of policies introduced to improve workers’ living standards. For example, increasing workers’ job security will reduce the level of employment without affecting the real wage.
+The model also shows the effects of the taxes necessary to finance these policies, and how labour unions may improve macroeconomic outcomes, illustrated by centralized wage bargaining in Sweden and ‘flexicurity’ in Denmark.
+Policies that make markets more competitive reduce firms’ markup of prices over costs, shifting up the PS curve, resulting in an increase in both wages and employment. The model can be used to show that the increase in income inequality in the US since 1980 may be the result of a decline in the degree of competition among firms.
+Countries differ greatly in the extent to which their institutions and policies achieve low levels of unemployment and rapid growth of real wages. A comparison of recent successes (Germany and Denmark) and failures (Spain) provides some reasons why this might be the case.
+Concepts and models introduced and applied in Unit 2
+Measuring inequality using the Lorenz curve and the Gini coefficient; mapping from WS–PS model
+Labour market policies, including unintended consequences, in the WS–PS model
+Representing labour unions and employers’ associations in the WS–PS model
+Illustrating segmented labour markets and firing costs in WS curve and Lorenz curve shifts
+Defining the vertical axis in the WS–PS diagram in terms of post-tax real wage
+Changes in taxes and imported raw materials prices shift the PS curve; weakening of product market competition and labour unions in US
+Nash equilibrium, structural unemployment

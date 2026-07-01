@@ -1,0 +1,22 @@
+Unit 4
+Strategic interactions and social dilemmas
+Summary
+
+Addressing the challenge of climate change requires understanding conflicting as well as common interests.
+Game theory is a way of modelling economic interactions in which people behave strategically, because each person knows that the outcome depends not only on their own actions, but also on what others do.
+The outcome of an interaction is a Nash equilibrium if none of those involved could do better by choosing some different action.
+There may be an outcome that is not a Nash equilibrium, but in which everyone would be better off than at a Nash equilibrium. In this case, the Nash equilibrium is not Pareto efficient.
+When individuals pursue higher pay-offs for themselves, the result can be worse for everyone (as in a prisoners’ dilemma game). But there are conditions in which self-interest results in the best outcome for each (as in an invisible hand game).
+Experimental games with pay-offs in money often demonstrate that people care about the pay-offs that others get. In other words, their preferences are social rather than purely self-interested.
+By taking account of both self-interested and social preferences, game theory can explain what we observe in experiments and in the world.
+People care about fairness; in ultimatum game experiments, they are often willing to get no pay-offs at all rather than to accept what they think is an unfair division of the pie.
+Opportunities to punish free-riders in the public good game, or competition in the ultimatum game, are examples of changes in the rules of the game that alter people’s behaviour.
+Game theory—including the hawk–dove game—provides alternative ways of representing the challenge of climate change, and means of addressing it.
+Concepts and models introduced and applied in Unit 4
+Social interactions; social dilemmas
+Game theory: strategic interaction, game, players, actions, pay-offs, strategies
+Best response, Nash equilibrium, dominant strategy, dominant strategy equilibrium
+Simultaneous games and sequential games with two or more players
+Types of game: invisible hand game, prisoners’ dilemma, coordination game (such as the hawk–dove game), public good game, ultimatum game
+Criteria for evaluating an allocation: Pareto criterion, Pareto efficiency, fairness
+Self-interested preferences; social norms; social preferences such as altruism, inequality aversion, and reciprocity.

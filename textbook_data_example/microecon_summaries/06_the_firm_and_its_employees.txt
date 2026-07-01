@@ -1,0 +1,24 @@
+Unit 6
+The firm and its employees
+Summary
+
+The firm is both an economic actor, and a stage where workers, managers, and owners interact. Working in firms brings mutual gains (profit for owners, economic rents for employees), and conflicts of interest over how the gains are distributed.
+The labour market is a matching market: it matches workers, who have different skills and preferences, with employers, who offer jobs with different characteristics.
+Employment contracts are typically long-term, because it takes time for workers and firms to find good matches, and because employment involves relationship-specific assets.
+Workers will accept a job only if it is better than their next best option—the wage must be above their reservation wage.
+The hiring and quitting model: Workers have different reservation wages; to achieve a desired level of employment, the firm’s wage must attract enough applicants to replace those who leave. Its reservation wage curve shows the lowest feasible wage for each level of employment.
+Employment contracts are incomplete because important information, such as the employee’s effort or when they will leave, is asymmetric or non-verifiable.
+The labour discipline model: The employer (the principal) chooses the wage, and the employee (the agent) decides how hard to work. The equilibrium wage gives the worker sufficient economic rents to motivate the required level of effort (the no-shirking wage).
+The wage-setting model combines the hiring and quitting and labour discipline models to determine the firm’s no-shirking wage curve: the wage sufficient to sustain both the size of the workforce and the effort of workers. The firm chooses the profit-maximizing combination of employment and wages on the no-shirking wage curve.
+Extending the model to the whole economy shows that: when wages are high, employment is low, and vice-versa; unemployment can never be eliminated.
+Employers have two kinds of power: power over workers, because they would lose rents if terminated by the employer; and labour market power, because firms can lower their wages by hiring fewer workers.
+When firms have labour market power, imposing a minimum wage can result in higher employment.
+Concepts and models introduced and applied in Unit 6
+The hierarchical structure of the firm; separation of ownership and control; residual claimant
+Distinctive features of employment: employment contract; long-term relationships, firm-specific assets; incomplete contracts
+A model of hiring and quitting; reservation wages and the firm’s reservation wage curve
+Asymmetric information; verifiable information; enforceable contracts; principal–agent problems
+Employment rent; determining the reservation wage of an unemployed worker, the labour discipline model, and the no-shirking wage
+The wage-setting model: isoprofit curves, and the no-shirking wage curve
+The firm’s power over employees; labour market power; minimum wages
+The labour force; unemployment rate; search unemployment; involuntary unemployment

@@ -1,0 +1,21 @@
+Unit 1
+The supply side of the macroeconomy: Unemployment and real wages
+Summary
+
+People’s wellbeing depends on whether or not they have a job and what they are paid. Macroeconomic data show that the unemployment rate is much higher in some countries than in others over decades, and that real wages have grown at very different rates.
+Macroeconomics is the study of the economy as a whole, including wage rates and the unemployment and employment rates. These are the outcomes of the wage—and price-setting decisions of employers and the job-seeking and working behaviour of employees.
+The wage-setting and price-setting model (WS–PS) combines two arenas where households and employers interact: the labour market and the product market.
+Before scaling up to the level of the whole economy, the foundations of a model of wage and price setting can be understood by focusing on decision-making in a firm.
+The owners or managers of the firm set the wage at a level high enough to recruit and motivate workers and set the price to maximize profits, taking account of competitive conditions in the market for its products.
+When the unemployment rate in the economy is lower, it is easier for workers to get another job offer, so employers must pay a higher wage to get workers to supply adequate effort.
+There is just one combination of real wage and unemployment rate at which the outcome in the economy is the same as the one that firms expected when making their choices. This combination is what we would expect to observe on average over long periods of time.
+There is always involuntary unemployment in equilibrium, that is, at a WS–PS intersection.
+In equilibrium, the real wage will be higher when labour productivity is higher and when there is more competition in the economy in both the product and the labour market.
+Unemployment will be lower when it is easier for employers to recruit and motivate people to work hard, that is, when the unemployment benefit is lower (or the quality of life when unemployed is worse), when it is easier to monitor how hard a worker is working, when it is easier to fire a worker caught shirking, and when employees find it less unpleasant to meet HR’s work standard.
+Concepts and models introduced and applied in Unit 1
+Measuring macroeconomic performance using the unemployment rate, employment rate, participation rate, and real wages
+The WS–PS model of the macroeconomy
+Deriving the WS curve from the firm’s reservation wage and no-shirking wage
+Deriving the PS curve from the firm’s labour productivity, product market, and labour market power (limits to competition), and the resulting price markup or wage markdown
+The Nash equilibrium of the WS–PS model; structural, involuntary, and voluntary unemployment
+Contrasting partial and general equilibrium models

@@ -1,0 +1,23 @@
+Unit 3
+Aggregate demand and the multiplier model
+Summary
+
+GDP is an imperfect but important measure of how much an economy produces. It omits household production and the illegal and shadow economies.
+A system of national accounts is used to measure GDP based on spending by households, firms, the government, and foreigners on final output, the incomes received by producers as wage, salaries, and profits, and the contribution of each industry to the value added in production.
+GDP per capita is an imperfect but important indicator of a country’s living standards. It neglects important aspects of wellbeing, including the enjoyment of leisure time, the quality of the physical and social environment, and the extent of inequality.
+To make comparisons of GDP and GDP per capita over time and between countries, account must be taken of how prices for goods and services change and differ.
+Fluctuations in the total output of a nation (GDP) over the business cycle are caused by shifts in the aggregate demand for goods and services. They affect unemployment, and unemployment is a serious hardship for people.
+Households respond to shocks by saving, borrowing, and sharing to smooth their consumption of goods and services.
+Due to limits on people’s ability to borrow (credit constraints) and their present bias, these strategies are not sufficient to eliminate fluctuations in their consumption.
+Unlike consumption, spending on investment projects is often clustered. Investment spending therefore fluctuates more than consumption. Business investment depends positively on expected post-tax profits and negatively on the interest rate.
+The multiplier model is used to study the business cycle. It consists of the equation for goods market equilibrium and the equation for aggregate demand. Solving the two equations gives the formula for the multiplier, which in this model has a value greater than one.
+Concepts and models introduced and applied in Unit 3
+National accounts and gross domestic product (GDP), which can be calculated as total output (value added) or equivalently total income, or total expenditure on the country’s output
+Total expenditure = consumption + investment (including inventories) + government spending on goods and services + net exports (exports minus imports)
+Allowing for price differences: real and nominal GDP; purchasing power parity exchange rates
+Fluctuations in GDP growth: business cycles, recessions and booms
+The aggregate consumption, aggregate investment and aggregate demand functions; autonomous consumption and investment
+The multiplier model: how spending decisions determine goods market equilibrium, and demand shocks result in business cycle fluctuations; the role of capacity utilization
+The determinants of the multiplier: the marginal propensity to consume (MPC), the rate of taxation, and the marginal propensity to import.
+Consumption smoothing: temporary and permanent shocks; credit constraints and present bias
+Investment decisions: the interest rate and profit expectations; coordination and volatility

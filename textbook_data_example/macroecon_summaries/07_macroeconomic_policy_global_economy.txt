@@ -1,0 +1,19 @@
+Unit 7
+Macroeconomic policy in the global economy
+Summary
+
+There is a wide spectrum of regimes and macroeconomic outcomes in the global economy.
+In Unit 5, we analysed a FlexIT economy, which combined a flexible exchange rate with monetary policy constrained by an inflation target. But only around one quarter of the world’s population lives in countries that fit this model.
+In a FlexNIT economy, with a flexible exchange rate, but no inflation target, the lack of an inflation target constraint can be dangerous. A depreciating exchange rate and a rising rate of inflation can reinforce each other in an inflationary spiral. This applies to countries with nearly one quarter of the world’s population.
+Given the dangers of high inflation, many countries—containing around half the world’s population—have either significantly limited exchange rate fluctuations by fixing (or stabilizing) their exchange rate, or eliminated them entirely, by joining a currency union or adopting the currency of another country.
+By effectively abandoning any independence in setting their own monetary policy, and the flexibility this provides in responding to purely domestic shocks, a country that fixes its exchange rate to a country with an inflation target ‘ties the hands’ of the domestic policymaker. This can help to bring inflation down, and keep it at low levels. This is an option if an institutional framework that enforces true central bank independence from the government is impossible.
+However, fixing the exchange rate is not a miracle cure. The transition to low inflation that results from fixing the exchange rate is usually slow and painful. Some countries have stuck with it, but many others have given up on the attempt and reverted to high inflation.
+A key part of the explanation for sustained high inflation, and therefore the FlexNIT regime, is that it enables governments to reduce the real cost of borrowing, via monetary finance. This may enable them to implement spending plans that keep them in power while imposing the costs of high and rising inflation on their citizens.
+Concepts and models introduced and applied in Unit 7
+Inflation, monetary policy, central bank independence, stable and credible inflation targets
+Nominal and real exchange rates, appreciation, depreciation, competitiveness, fixed (or target) exchange rate regime, flexible exchange rate
+The multiplier model and Phillips curve—how economies with different monetary policy and exchange rate regimes respond to shocks
+Common currency, common currency area or monetary union
+Dollarization, euro-ization; ‘managed’, ‘target’, and ‘shadow’ exchange rate regimes
+Global capital mobility, capital controls, the uncovered interest parity (UIP) condition
+Deficits and debt: sovereign debt crisis, monetary finance, hyperinflation

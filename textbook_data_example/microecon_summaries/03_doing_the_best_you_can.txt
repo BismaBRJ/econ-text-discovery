@@ -1,0 +1,19 @@
+Unit 3
+Doing the best you can: Scarcity, wellbeing, and working hours
+Summary
+
+Since the Industrial Revolution, technological progress has led to rising wages, and hours of work have fallen.
+Deciding how many hours to work is an example of decision-making under scarcity—when we have limited means available to meet our objectives.
+Workers face a trade-off between free time and income, which corresponds to their budget constraint. Taking more free time has an opportunity cost in the form of reduced earnings.
+Economists model such decisions by first defining the objectives or preferences of the decision-maker, and all of the feasible actions, then evaluating which of these actions is best, given the objectives.
+A worker’s chosen combination of income and free time balances the trade-off they are willing to make with the trade-off they are constrained to make by the budget constraint.
+The income effect of a rise in wages leads workers to take more free time, but the substitution effect leads them to take less, because the opportunity cost of free time has risen. The overall effect depends on which of these dominates.
+The model helps to explain changes in our hours of work throughout history, and differences between countries.
+The Veblen effect could explain why working hours are longer in countries where the richest people receive a high share of income.
+In almost all countries, women do more unpaid work and less paid work than men. This could be explained as an effect of the gender wage gap on the division of labour in households with children.
+Differences in working time reflect differing preferences between countries, as well as income differences.
+Concepts and models introduced and applied in Unit 3
+Modelling preferences: utility, indifference curves, and the marginal rate of substitution
+Modelling scarcity: the budget constraint, the feasible set, opportunity cost, and the marginal rate of transformation
+Decision-making under scarcity: constrained choice problems and how to solve them
+What happens to consumption and free time when wages change: the income effect and the substitution effect; the Veblen effect.

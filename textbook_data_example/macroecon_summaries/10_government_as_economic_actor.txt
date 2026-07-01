@@ -1,0 +1,24 @@
+Unit 10
+Government as economic actor: Economics, politics, and public policy
+Summary
+
+The government is an economic actor: it determines the legal framework, as well as taxation and spending on publicly provided goods and services. It is the only body that can legitimately use force to compel citizens to comply with laws and regulations.
+Economic analysis assesses government policy using efficiency and fairness criteria. Political economy also studies political institutions and processes, and their effect on the policies that governments choose to implement.
+Democracy is a political institution characterized by the rule of law, civil liberties, and fair elections. It constrains politicians to take into account the preferences and interests of citizens, limiting their ability to pursue their own interests.
+The median voter model helps to explain how political parties position themselves on the spectrum of voter preferences. According to this model, when the income of the median voter is low relative to average income (typically when inequality is high), governments choose higher levels of tax and spending.
+Democratic national governments emerged at the end of the nineteenth century and spread over the next century as more countries extended the right to vote to all citizens. Democracy has been accompanied by increases in the size of government and reduced inequality.
+In the twenty-first century, the advance of democracy has stalled, as some previously democratic countries have reduced or eliminated the democratic rights of their citizens.
+Government elites may pursue self-interested motives, even in a democracy. The rent-seeking model of a political elite setting taxation shows how elections limit the extent to which they can raise taxes above spending without losing office. But democracy can also raise potential for rent extraction, if greater stability increases their expected duration in power.
+Whether fair and efficient economic policies are implemented depends on their economic, political, and administrative feasibility. Comparative cross-country evidence demonstrates that successful policies can be designed and implemented, and they make a difference.
+Governments fail if the effects are undone by other economic actors (the desired policy outcome is not a Nash equilibrium); or if politics biases policy choice towards those who benefit in the short term, or towards the interests of particular groups.
+Concepts and models introduced and applied in Unit 10
+The role of government, and political institutions
+Pareto efficiency and fairness as policy criteria; government’s role in providing public goods and addressing other market failures
+Policy tools: incentives, regulation, persuasion or information, public provision
+Democracy: the rule of law, civil liberties, and fair elections
+Other political systems: closed autocracy (dictatorship); electoral autocracy
+Modelling electoral competition: the median voter model
+Egalitarianism: redistribution and pre-distribution
+Modelling a rent-seeking government: constrained choice problem, political rents, isorent curves, and the feasible frontier
+Political and economic accountability: exit and voice
+Economic feasibility, political feasibility, special interests, government capacity, and the principal–agent relationship between citizens and elected leaders

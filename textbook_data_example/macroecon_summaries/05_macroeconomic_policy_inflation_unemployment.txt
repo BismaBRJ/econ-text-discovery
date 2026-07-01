@@ -1,0 +1,23 @@
+Unit 5
+Macroeconomic policy: Inflation and unemployment
+Summary
+
+The economy is regularly hit by shocks, which produce fluctuations both in output (and hence employment) and in inflation. Macroeconomic policymakers aim to limit the impact of these shocks.
+The tools of fiscal policy are changes in government expenditure or changes in taxes. Fiscal policy acts directly on aggregate demand or aims to influence consumption by changing disposable incomes (taxes and transfers).
+The single tool of monetary policy is usually the short-term nominal interest rate, which is directly controlled by the central bank, with the aim of controlling real interest rates. This indirectly affects aggregate demand via investment and consumption and, via the exchange rate, net exports. Changes in the exchange rate also directly affect inflation via changes in the price of imported goods and services.
+The tools of macroeconomic policy are used to stabilize aggregate demand at the supply-side equilibrium, the lowest unemployment rate where inflation is stable.
+In many economies, particularly high-income ones, fiscal and monetary policy have in recent decades been assigned distinct tasks.
+In these economies, central banks have a large degree of independence in setting monetary policy, but with an obligation to keep inflation as close as possible to an inflation target set by the government.
+Through automatic stabilizers, fiscal policy contributes to reducing fluctuations in output and employment. In times of crisis, and when monetary policy is disabled because of the zero lower bound or because a country does not have its own monetary policy, discretionary spending and tax changes contribute to stabilization. But when fiscal policy produces budget deficits and large increases in the government’s debt, this often leads to austerity policies, which may sometimes accentuate downturns.
+With demand shocks, there is no conflict between stabilizing output and inflation. For example, a demand shock that reduces unemployment and raises inflation can be offset by a policy that cuts aggregate demand.
+In contrast, inflationary supply shocks always require the central bank to impose output costs on the economy in order to bring inflation back to target. If the central bank can be relied upon to keep inflation to target, these output costs may be reduced by anchoring inflation expectations.
+Concepts and models introduced and applied in Unit 5
+Demand shocks and supply shocks
+Combining supply-side (WS–PS and Phillips curve) and demand-side (multiplier) models to model fiscal policy and monetary policy
+Fiscal policy: automatic stabilizers, discretionary fiscal policy, the multiplier model, crowding out
+The paradox of thrift, the fallacy of composition, austerity policy, the government’s budget deficit
+
+Monetary policy: policy interest rate, nominal interest rate, real interest rate, Fisher equation, inflation targeting, central bank independence, zero lower bound, inflation expectations being anchored
+Present value, asset prices
+Exchange rates: appreciation, depreciation, nominal and real exchange rates, real depreciation
+Statistical terms: correlation, causation, line of best fit, natural experiment, reverse causality

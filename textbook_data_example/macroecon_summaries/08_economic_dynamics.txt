@@ -1,0 +1,21 @@
+Unit 8
+Economic dynamics: Financial and environmental crises
+Summary
+
+Economists use the concept of a stable equilibrium to make predictions about what we expect to observe in the economy.
+This is because stable equilibria are self-correcting due to negative feedback processes. A change that moves the economy away from a stable equilibrium creates a situation in which economic actors, acting according to their own objectives, will act in ways that reverse the initial change and bring the economy back to the initial equilibrium.
+A stable equilibrium is not necessarily a desired outcome (for example, a poverty trap) or unique (for example, a high and a low house price equilibrium).
+Economists design policies so that changes in the incentives that people experience—changes in taxes, subsidies, or the policy interest rate, for example—will predictably nudge the equilibrium of the economy to a more desired outcome.
+But equilibria need not be stable. In this unit, we introduced three situations—related to a poverty trap, the environment, and the market for housing—in which some equilibria are unstable, called tipping points, and are not likely to persist, if they occur.
+Near these unstable equilibria, small changes—in a household’s wealth, summer Arctic sea ice, or house prices—can move the economy or biosphere past a tipping point resulting in changes in outcomes that are both very large and difficult to reverse.
+To understand these and other cases of instability, we introduced a model of economic dynamics that explains how things change when the economy is not in equilibrium.
+Instability is the result of positive feedback processes, which occur when a movement away from an equilibrium resulting from a shock leads to further ‘runaway’ changes in the same direction.
+Examples of instability are that an increase in global temperatures creates conditions that make further temperature increases more likely; an increase in the price of housing may increase the demand for housing, creating conditions for a house price bubble; and an increase in the number of EVs on the road increases the advantages having an EV, thereby destabilizing the carbon-based transportation system.
+The concept of positive feedback processes and the S-shaped curve in a model of economic dynamics also provide an explanation of a poverty trap that perpetuates low incomes and the first halting and then rapid adoption of electric vehicles that may propel economies away from a carbon trap based on fossil fuels.
+In cases where instability may result in unexpected, large, and possibly irreversibly damaging changes, the consequences of which are impossible to predict—for example, the case of climate change or the collapse of the global financial system—the guiding objectives of public policy should include prudence, that is, finding least-cost ways of reducing the likelihood of the worst-case outcome.
+Concepts and models introduced and applied in Unit 8
+Modelling multiple equilibria problems: stable equilibrium (associated with negative feedback), unstable equilibrium (associated with positive feedback), tipping points
+The model in various applications: price dynamics curve, environmental dynamics curve, adoption dynamics curve, 45-degree line
+Shocks (lead to movements along the dynamics curve), in contrast with shifts (of the dynamics curve)
+Financial terms: capital gain, asset price bubble, leverage, fire sale, collateral, financial accelerator, precautionary savings, target wealth
+Dealing with risk and fundamental uncertainty: prudential policies

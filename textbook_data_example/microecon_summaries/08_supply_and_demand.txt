@@ -1,0 +1,22 @@
+Unit 8
+Supply and demand: Markets with many buyers and sellers
+Summary
+
+Prices play an important role in markets because they convey information about demand and scarcity to buyers and sellers.
+In a market with many buyers and sellers, the interaction of supply and demand determines the price of the product and the quantity sold in equilibrium.
+Just as the demand curve depends on the buyers’ willingness to pay, the supply curve depends on the prices that sellers are willing to accept.
+When the sellers are firms, the market supply curve represents the marginal cost of production.
+In the equilibrium of a market with many buyers and sellers of identical goods, no individual can influence the price: they are all price-takers. We call this a competitive equilibrium.
+Price-taking behaviour ensures that all gains from trade in the market are exhausted: there is no deadweight loss.
+We can use the model of supply and demand to analyse how equilibrium prices and quantities will change in response to economic shocks.
+When the market is not in equilibrium, buyers and sellers adjust prices in pursuit of rents until the equilibrium is reached.
+Markets that satisfy the idealized conditions under which all buyers and sellers are price-takers are described as perfectly competitive.
+Real-world markets are typically not perfectly competitive, but the supply and demand model can be useful when the conditions for competitive equilibrium are only approximately satisfied.
+If a government levies a tax on a product or regulates its price, the market equilibrium changes. This leads to a deadweight loss, but may enable other beneficial objectives to be achieved.
+Concepts and models introduced and applied in Unit 8
+The demand curve and willingness to pay for a good; the supply curve and willingness to accept (or reservation price)
+Excess demand, excess supply, and the market-clearing price
+The model of competitive equilibrium, in which all buyers and sellers are price-takers; the equilibrium price; Pareto efficiency; perfect competition and the Law of One Price
+The firm’s supply curve (given by its marginal cost); the market supply curve and marginal cost curve; costs of entry; supply in the short run and the long run; short-run and long-run elasticities; short-run and long-run equilibria
+The effects of exogenous shocks to supply and demand; disequilibrium rents and market equilibration
+Taxes and price controls; tax incidence; rent ceiling

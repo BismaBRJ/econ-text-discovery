@@ -1,0 +1,20 @@
+Unit 5
+The rules of the game: who gets what and why
+Summary
+
+Institutions are sets of laws and informal rules that regulate social interactions. They determine who does what, and the power of each party to get what they want in the resulting allocation.
+Allocations may be judged and compared according to the Pareto criterion, and to fairness standards relating to the final allocation or the rules of the game.
+Modelling an interaction between a worker and a landowner shows how institutions and power affect the allocation: both structural power (the value of alternative options), and bargaining power (how the surplus is shared).
+Forced labour can occur where institutions protect property rights, but not the rights of workers. Workers lack structural and bargaining power and receive the minimum utility sufficient for survival and compliance.
+When courts enforce contracts and workers can say no, an employer or landowner who can make a take-it-or-leave-it offer will obtain the whole surplus. The allocation is Pareto efficient but the worker has no bargaining power, and therefore receives only their reservation utility.
+Workers with democratic political rights may be able to achieve legal reforms to improve their terms of employment. If the outcome is not Pareto efficient, bargaining between the parties can achieve a Pareto-efficient allocation, with a larger surplus that is shared between them.
+A similar model applies to citizens and firms with conflicting interests in the environmental impacts of production; the outcome depends on the structural and bargaining power of players.
+The two-person model illustrates how income is distributed between the parties, given their endowments of land and human capital. In general, the distribution of income in an economy depends on the distribution of endowments, which may transmit inequality between generations.
+The degree of inequality in a population can be represented, measured, and compared across time and countries using the Gini coefficient.
+Concepts and models introduced and applied in Unit 5
+Institutions (including land tenure, workers’ rights, contract enforcement, voting); power (structural and bargaining power)
+Criteria for evaluating an allocation: substantive judgements of fairness, procedural judgements of fairness, Pareto criterion
+Technology, the production function, the average product of labour, MRT
+Solving constrained choice problems: indifference curves and the feasible set; MRS = MRT
+Modelling a two-person interaction: reservation options, reservation indifference curves, economic rent, gains from exchange, joint surplus, conditions for Pareto efficiency, and the Pareto efficiency curve
+Inequality: Gini coefficient, endowments, human capital

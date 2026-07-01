@@ -1,0 +1,13 @@
+Unit 2
+Technology and Incentives
+Summary
+
+Over the past two centuries, cheap coal, oil, and other carbon-based resources along with rising wages provided ongoing incentives to increase the use of energy and economize on labour. The resulting build-up of CO2 and other greenhouse gases caused dangerous increases in global temperatures.
+To address the dual challenges of climate change and the elimination of global poverty, changes in the incentives to use fossil fuels along with other public policies are necessary.
+Concepts and models introduced and applied in Unit 2
+A model of economic decisions: opportunity cost, economic cost, reservation option, economic rents
+Incentives; innovation rents and relative prices
+A model of the gains from specialization and trade: comparative advantage and the division of labour
+Production functions, factors of production, constant returns to scale, fixed-proportions technologies, and the average product of labour
+A model of the choice between different two-factor technologies, using isocost lines to show how the choice depends on the relative prices of the factors
+The principles of economic modelling: simplification and ceteris paribus, equilibrium, endogenous variables and exogenous changes, testing models against evidence

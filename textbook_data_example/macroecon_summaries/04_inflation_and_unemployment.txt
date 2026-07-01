@@ -1,0 +1,26 @@
+Unit 4
+Inflation and unemployment
+Summary
+
+Consumer price inflation is measured by the percentage increase in the cost of a representative basket of household goods and services, usually over a year.
+Whether they win or lose from inflation depends on what people consume, the source of their income, how quickly wages, benefits, and interest rates adjust to price increases, and whether they are a net lender or borrower.
+People care about uncertainty, and more volatile inflation creates uncertainty, making people feel worse off.
+Business cycle upswings are reflected in higher rates of inflation when unemployment is lower and vice versa, summarized in the Phillips curve.
+Inflation is the outcome of conflicts over the distribution of income represented by claims on output made by workers, owners of firms, suppliers of goods from other economies, and the government.
+We model inflation as a process in which firms ultimately set real wages. When WS>PS
+, workers want, and get, higher nominal wages because their position in the labour market is stronger but firms immediately raise prices so that real wages are unchanged (on the PS).
+This results in the Phillips curve: inflation is driven by the bargaining gap between the real wage workers want (on the WS) and the wage that they actually get (on the PS).
+Inflation will continue to rise, period by period, if the bargaining gap persists and the expected rate of inflation rises, shifting the Phillips curve up.
+The inflation-stabilizing rate of unemployment is given by the supply-side equilibrium where the WS and PS curves intersect—this is also termed the equilibrium or structural unemployment rate.
+An inflationary demand shock increases employment above the supply-side equilibrium, and so introduces a bargaining gap which raises inflation.
+An inflationary supply shock changes the supply-side equilibrium—either because the PS curve shifts down, lowering the real wage, or because the WS curve shifts up, increasing the real wage workers want (but do not get). As a result, a bargaining gap opens up even if employment remains unchanged.
+Concepts and models introduced and applied in Unit 4
+Changes in prices over time: inflation, deflation, disinflation
+Effects of inflation on the distribution of income
+Price indices: consumer price index (CPI), GDP deflator
+Modelling the business cycle using three models: the supply-side or WS–PS model; the demand side or multiplier model; and the Phillips curve
+The inflation rate is equal to the bargaining gap plus expected inflation; inflationary expectations can be anchored.
+Inflation and wages: real wage, wage inflation, wage–price spiral
+Inflation and unemployment: inflation-stabilizing rate of unemployment, cyclical unemployment
+Inflation and international trade: protectionist policies, terms of trade
+Types of inflation: cost-push, demand-pull, expectations, and profit-push (or sellers’) inflation

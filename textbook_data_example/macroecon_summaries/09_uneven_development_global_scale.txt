@@ -1,0 +1,21 @@
+Unit 9
+Uneven development on a global scale
+Summary
+
+Following the hockey stick GDP per capita growth beginning in some economies in the nineteenth century, many but not all other countries have experienced periods of catch-up growth. Wide inequalities between countries remain.
+When we use a ratio scale to plot GDP per capita over time, the slope of the line represents the growth rate. We use compound average growth rates (CAGR) to calculate the average rate of growth over a long period.
+A production function model illustrates that output growth depends on the rates of growth of the inputs (such as capital goods and labour), and technological progress. Raising capital goods per worker (capital intensity) increases labour productivity, but reduces the average product of capital unless accompanied by technological improvements.
+No high-income countries have very low investment shares. Raising income from year to year requires net investment in capital goods, financed by higher savings and a fall in the share of consumption, which is difficult to achieve in countries with subsistence-level consumption.
+Returns to investment in new technology depend on the levels of infrastructure, education, and health in the economy. Where these are low, countries may be stuck in a low-technology equilibrium.
+The quality of economic and political institutions is an important determinant of economic performance. For countries that were formerly colonized, a causal link has been demonstrated between the quality of institutions established in the colonial period and subsequent economic growth.
+A model of exogenous and endogenous growth—the growth dynamics model—in which higher growth leads to higher investment, shows how the equilibrium growth rate is determined, and what policies are required to escape from a low-growth equilibrium. The model sheds light on the differing growth paths of otherwise similar countries (such as Bangladesh and Pakistan).
+As incomes have risen since the mid-twentieth century, global inequality and poverty have fallen: the reduction of inequality between counties has outweighed increases within countries. But inequality remains high and much of the world remains poor.
+Sustainable growth now requires rapid reduction of carbon emissions (to net zero) to avoid catastrophic climate change. Some countries have shown that GDP can be decoupled from carbon emissions through a green energy transition, but substantial investment in green technologies is urgently required to achieve widespread sustainable growth.
+Concepts and models introduced and applied in Unit 9
+Visualizing economic growth: ratio scale, compound annual growth rate (CAGR), rule of 70
+Global inequality: decile group, catch-up growth, convergence
+Accounting for growth: labour productivity, total factor productivity, capital intensity, average product of capital (APK)
+Modelling long-run growth: exogenous and endogenous growth, growth dynamics curve, growth dynamics model
+Key drivers of growth: investment and saving, foreign direct investment, infrastructure and education (external effects), quality of economic and political institutions, private property rights, rule of law
+Coordination problems, developmental states
+Sustainable economic growth, degrowth and green growth, decoupling, energy transition, relative prices, taxation, regulation, social movements

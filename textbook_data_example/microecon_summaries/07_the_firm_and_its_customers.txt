@@ -1,0 +1,21 @@
+Unit 7
+The firm and its customers
+Summary
+
+Firms producing differentiated products choose their price and quantity of output to maximize their owners’ profits, while taking into account the product demand curve and the cost function; they set a price that is above their marginal cost of production.
+Technological and cost advantages of large-scale production favour large firms.
+Firms face fixed and variable costs of production, but some costs are only fixed in the short run.
+The demand curve depends on consumers’ willingness to pay for the product.
+The responsiveness of consumers to a price change is measured by the elasticity of demand. If a firm faces little competition, the price elasticity of its demand curve is low, and its markup of price above marginal cost is high.
+The gains from trade in a market are divided between consumers and firm owners, and prices above marginal cost cause a deadweight loss for society.
+Firms can increase profit by differentiating their products through product selection, innovation, and advertising, and by exploiting the advantages of large scale.
+Firms with few competitors set prices strategically, taking into account the effect their own decision will have on their competitors.
+Policymakers use competition policy to reduce market power and deadweight loss, and improve outcomes for society.
+Concepts and models introduced and applied in Unit 7
+The firm’s cost function: total costs, fixed costs, variable costs; average cost and marginal cost; the opportunity cost of capital
+Costs in the short run and the long run; exogenous and endogenous variables
+The demand curve for a differentiated product: willingness to pay, price elasticity of demand
+Revenue and profit (or economic profit), normal profits; isoprofit curves; marginal revenue and profit margin
+The scale of production: economies of scale, diseconomies of scale; increasing, constant, and decreasing returns to scale; network economies of scale
+Measuring the gains from trade (or gains from exchange): total surplus, consumer surplus, and producer surplus; deadweight loss
+Competition and market power: substitutes, market share; price markup, profit margin; monopoly and natural monopoly; competition policy (or antitrust policy).

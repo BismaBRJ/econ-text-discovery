@@ -1,0 +1,23 @@
+Unit 6
+The financial sector: Debt, money, and financial markets
+Summary
+
+Debt and a financial sector enable individuals to smooth consumption across time, even when they retire.
+Debt enables households to borrow to buy a house worth several multiples of their annual income and to pay it off over several decades, rather than building it ‘brick by brick’.
+The financial sector allows savings to flow to capitalist firms, which use borrowed funds to acquire productive capital. This use of ‘leverage’ gives firms a strong incentive to invest in forms of capital delivering the highest rate of return to their owners.
+Investing in productive capital is always risky, and this risk must be borne by investors, who have typically also been rewarded with higher returns. This benefits the already-wealthy who can bear the risk as well as those who can save over long time horizons through pension funds.
+The financial sector allows such investors to mitigate some of the risks of investment by diversification.
+For governments, the ability to borrow facilitates spending to smooth aggregate demand in recessions and to smooth taxation, so as to engage in the construction of public infrastructure.
+Banks are capitalist firms that make profits by lending at a higher interest rate than they have to pay to borrow. Most money in the economy (‘bank money’ such as the balance in your current account) is created when banks make loans.
+The banking sector allows individuals to use money (meaning, currency + bank money) to transfer consumption over time (that is, as a store of value) and also as a means of exchange.
+Central banks also have liabilities, ‘base money’ (meaning, currency + commercial banks’ reserves), which provides the unit of account, so that all goods and services, assets and liabilities are measured in terms of a country’s currency. Monetary policy aimed at stabilizing inflation attempts to stabilize the unit of account.
+Since central banks are almost universally owned by governments, currency and reserves are a form of government debt.
+Concepts and models introduced and applied in Unit 6
+Balance sheet; net worth (or wealth) equals assets minus liabilities
+Real assets (such as human capital, real estate, and capital goods) and financial assets (such as bonds and shares, also known as stocks, or equity); assets can be liquid or illiquid
+Money as a unit of account, means of exchange, and store of value; commodity money, bank money, and base money (currency plus commercial bank reserves)
+Financial intermediaries (including commercial banks) and financial markets (including bond markets and stock markets)
+Commercial banks: how banks make profit, rate of interest, diversification, default risk, default premium, bank run
+Central bank: base money, legal tender; monetary policy, quantitative easing; government debt, maturity
+Businesses: leverage or gearing; limited liability
+Household investments: rate of return, mortgage, collateral, imputed rent, capital gain, risk premium

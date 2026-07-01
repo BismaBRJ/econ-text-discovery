@@ -1,0 +1,30 @@
+Unit 10
+Market successes and failures: The societal effects of private decisions
+Summary
+
+For a Pareto-efficient allocation of resources, the marginal social cost of production and consumption of every good must equal the marginal social benefit.
+Where private and social costs or benefits differ, and decision-makers consider only their private interests, the external effects of their decisions result in misallocation (Pareto inefficiency).
+For markets to allocate resources efficiently, prices must reflect marginal social costs and benefits. Market failure occurs if prices send the wrong messages, or if the relevant markets don’t exist.
+If property rights are clearly established, an efficient allocation may be achieved through private bargaining. But this will not happen if, as is typically the case, transaction costs impede bargaining.
+When markets and private bargaining fail, government regulation or taxation may help to overcome the problem. But there are also limitations—such as a lack of important information—on the effectiveness of government policy.
+Public goods are a special case of external benefits. They are non-rival: the marginal cost of supplying an additional user is zero.
+Private firms will not provide a public good efficiently. If the good is excludable, a firm may be able to provide it to fewer than the Pareto-efficient number of consumers by setting a price above marginal cost.
+Shared or open-access resources are non-excludable but at least partially rival. This also leads to misallocation—that is, overuse.
+When relevant information is asymmetric between the parties to an interaction (or is non-verifiable), the contract will be incomplete and the outcome inefficient, because whatever is not covered in the contract is an external effect of one party on the other.
+Examples include the hidden action problem in the labour market when extra effort by the worker is an uncompensated external benefit to the employer.
+Hidden attributes result in adverse selection as buyers or sellers with better attributes withdraw from the market.
+Some goods and services are not allocated in markets because we agree that they are merit goods that should be available to all; or that it would be repugnant for them to be traded for money.
+Concepts and models introduced and applied in Unit 10
+Pareto efficiency, misallocation of resources, external effects (or externalities), market failure, and missing markets
+External costs and external benefits (or equivalently external diseconomies or negative externalities, and external economies or positive externalities)
+A model of misallocation when there are external costs of production (pollution); marginal social and private costs, and benefits: MSC, MPC, MSB, MPB
+Marginal external costs and benefits: MEC and MEB; MSC = MPC + MEC and similarly, MSB = MPB + MEB
+Legal institutions: private property, contracts, and the importance of verifiable information
+Bargaining as a solution for external effects; property rights, reservation options, and transaction costs
+Other solutions: regulation, Pigouvian tax (or subsidy), legal redress, and compensation
+Public good, non-rivalry, free-riding; a model of misallocation in the case of a public good; excludability, deadweight loss
+Excludable public goods (sometimes known as artificially scarce or club goods)
+Open-access resources, common-pool resources, congestible public goods, private goods
+Asymmetric information or unverifiable information, incomplete contracts, hidden-action problems, and moral hazards
+Hidden attributes, adverse selection
+Limitations of economic reasoning: merit goods, repugnant markets

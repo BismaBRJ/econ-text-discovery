@@ -1,0 +1,23 @@
+Unit 9
+Lenders and borrowers and differences in wealth
+Summary
+
+The income a person receives in a period of time may be consumed, or saved in the form of financial or physical assets, adding to their stock of wealth.
+Borrowing or selling assets allows consumption spending to exceed income; this reduces the stock of wealth.
+Timing matters; a person cares not only about what they get, but also when they get it. Sooner is typically better than later, which is termed impatience.
+A person can rearrange the timing of their spending by borrowing, lending, investing, storing, and saving; and those with more wealth typically have more and better opportunities to do this than poorer people.
+Borrowing and lending is a principal–agent relationship in which there is no contract that can guarantee for the lender (the principal) that the loan will be repaid by the borrower (the agent).
+To address this problem, lenders often require borrowers to either contribute some of their own wealth to an investment project (equity) or to set aside a property to be transferred to the lender if the loan is not repaid (collateral).
+People with limited wealth are unable to contribute collateral or equity and, as a result, are often unable to secure loans (except for purchasing homes or vehicles) or can only do so at higher interest rates.
+While mutual gains for both borrowers and lenders motivate credit market transactions, there is a conflict of interest between them over the rate of interest, the prudent use of loaned funds, and the repayment of loans.
+Investments are risky, and should things go wrong, those with limited wealth are not able to borrow on as favourable terms as the wealthy; so they avoid taking risks and as a result forgo opportunities to raise their incomes, which perpetuates wealth inequality.
+Concepts and models introduced and applied in Unit 9
+Wealth (stock concept): assets such as shares, equity in businesses, human capital
+Income (flow concept): earnings, interest, profits
+Investment, depreciation, savings, bonds
+Real interest rate, nominal interest rate
+Intertemporal choice model: feasible frontier, indifference curves
+Bringing consumption forward to the present: borrowing, consumption smoothing, diminishing marginal utility, situational and intrinsic impatience, discount rate
+Moving consumption to the future: storing, lending, investing
+Principal–agent problem, incomplete contract, conflict of interest, equity, collateral, moral hazard
+Inequality: wealth differences, credit market constrained, credit market excluded, Gini coefficient.
