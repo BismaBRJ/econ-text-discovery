@@ -7,7 +7,7 @@ import os
 # from llama_index.core.workflow import Context
 from llama_index.core import load_index_from_storage, StorageContext
 from llama_index.llms.google_genai import GoogleGenAI
-from google.genai.errors import APIError, ClientError
+from google.genai.errors import ClientError
 
 st.title("Echo bot")
 
@@ -35,22 +35,28 @@ MODEL_NAME = st.sidebar.radio(
     ("gemini-3.5-flash", "gemini-3.1-flash-lite")
 )
 
+new_model = True
+if ("cur_model_name" not in st.session_state):
+    st.session_state.cur_model_name = MODEL_NAME
+elif (MODEL_NAME != st.session_state.cur_model_name):
+    st.session_state.cur_model_name = MODEL_NAME
+elif (API_KEY == ""):
+    new_model = False
+
 # well, you can switch LLMs, so yes this is rerun...
 llm_connect_success = False
 response = ""
-if (API_KEY != ""):
-    st.session_state.llm = GoogleGenAI(
-        model=MODEL_NAME,
-        api_key=API_KEY
-    )
-    client = st.session_state.llm._client
+if (new_model):
     try:
-        client.models.list(config={"page_size": 1})
-    except APIError as e:
-        response = f"Invalid API key:\n{e}"
+        st.session_state.llm = GoogleGenAI(
+            model=MODEL_NAME,
+            api_key=API_KEY
+        )
+    except ClientError as e:
+        response = f"Invalid API key:\n\n{e}"
         # llm_connect_success = False
     except Exception as e:
-        response = f"Unexpected error:\n{e}"
+        response = f"Unexpected error:\n\n{e}"
         # llm_connect_success = False
     else:
         llm_connect_success = True
@@ -70,8 +76,8 @@ if (prompt != None): # if the user hits send with nonempty prompt
 
     # formulate response
     if response == "":
-        response = """Why hello there!
-        Let me repeat what you just said:\n""" + prompt
+        response = """Hi! Enter your API key to get started.\n
+In the meantime, let me repeat what you just said:\n\n""" + prompt
 
     # display response as assistant-sent chat message
     st.chat_message("assistant").markdown(response)
