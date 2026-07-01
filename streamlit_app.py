@@ -2,13 +2,28 @@ import streamlit as st
 
 st.title("Echo bot")
 
-# set up chat history
+# set up chat history if not already
 if "messages" not in st.session_state:
     st.session_state.messages = []
 
 # display chat history thus far
 for message in st.session_state.messages:
     st.chat_message(message["role"]).markdown(message["content"])
+
+# set up sidebar
+canceled = """byok_radio = st.sidebar.radio(
+    "Choose API key",
+    ("Use from secrets.toml", "Use your own")
+)
+"""
+byok_field = st.sidebar.text_input(
+    label="Enter Gemini API key",
+    value=""
+)
+model_radio = st.sidebar.radio(
+    "Choose model",
+    ("gemini-3.5-flash", "gemini-3.1-flash-lite")
+)
 
 prompt = st.chat_input("Say something :D")
 if (prompt != None): # if the user hits send with nonempty prompt
