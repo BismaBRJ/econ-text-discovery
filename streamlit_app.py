@@ -9,7 +9,7 @@ from llama_index.core import load_index_from_storage, StorageContext
 from llama_index.llms.google_genai import GoogleGenAI
 from google.genai.errors import ClientError
 
-st.title("Echo bot")
+st.title("econ-text-discovery")
 
 # set up chat history if not already (if first run)
 if "messages" not in st.session_state:
