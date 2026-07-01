@@ -1,3 +1,6 @@
+# macOS stuff
+/.DS_Store
+
 # API keys etc (but do check out the .example file)
 .streamlit/secrets.toml
 
