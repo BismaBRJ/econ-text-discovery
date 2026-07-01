@@ -11,6 +11,12 @@ from google.genai.errors import ClientError
 
 st.title("econ-text-discovery")
 
+st.markdown("""Welcome!
+
+Ask anything about the Indonesian economy in June 2026.
+
+Let's discuss through the lens of microeconomic and macroeconomic theory!""")
+
 # set up chat history if not already (if first run)
 if "messages" not in st.session_state:
     st.session_state.messages = []
