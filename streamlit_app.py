@@ -6,13 +6,11 @@ if "messages" not in st.session_state:
     st.session_state.messages = []
 
 for message in st.session_state.messages:
-    with st.chat_message(message["role"]):
-        st.markdown(message["content"])
+    st.chat_message(message["role"]).markdown(message["content"])
 
 prompt = st.chat_input("Say something :D")
 if prompt:
-    with st.chat_message("user"):
-        st.markdown(prompt)
+    st.chat_message("user").markdown(prompt)
 
     st.session_state.messages.append(
         {
@@ -21,11 +19,11 @@ if prompt:
         }
     )
 
-response = """Why hello there!
-Let me repeat what you just said:\n""" + str(prompt)
+if prompt:
+    response = """Why hello there!
+    Let me repeat what you just said:\n""" + prompt
 
-with st.chat_message("assistant"):
-    st.markdown(response)
+    st.chat_message("assistant").markdown(response)
     st.session_state.messages.append(
         {
             "role": "assistant",
