@@ -3,7 +3,7 @@ name = "econ-text-discovery"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.12.16" # due to eMudhra / emSign CA certificate security incident: https://discuss.python.org/t/information-for-python-users-regarding-emudhra-emsign-ca-certificate-security-incident/109576
 dependencies = [
     "llama-index>=0.14.23",
     "llama-index-llms-google-genai>=0.9.5",
